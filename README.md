@@ -1,1 +1,1 @@
-# Tarea-3_Electro
+#  Ecuación de Laplace - Método de Relajación
